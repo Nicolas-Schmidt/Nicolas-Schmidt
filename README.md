@@ -2,7 +2,7 @@
 
 I am Assistant Professor in Political Science and Quantitative Methods at Political Science Department (DPC) and at Methods and Data Access Unit (UMAD) - Universidad de la Republica.
 
-I develop my academic activity mainly in R language. 
+I develop my academic activity mainly in R language.   
 I have developed in co-authorship with several colleagues the following packages:
 
 
