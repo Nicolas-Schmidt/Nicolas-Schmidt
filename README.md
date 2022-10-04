@@ -20,13 +20,15 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nicosch14.svg?style=social&label=%20%40nicosch14)](https://twitter.com/nicosch14)   
-📧 Mail: nschmidt@cienciassociales.edu.uy
+📧 nschmidt@cienciassociales.edu.uy
 
 
 
