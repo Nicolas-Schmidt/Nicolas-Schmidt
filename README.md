@@ -4,6 +4,7 @@ I am Assistant Professor in Political Science and Quantitative Methods at Politi
 
 I develop my academic activity mainly in R language.   
 I have developed in co-authorship with several colleagues the following packages:   
+<br>
 
 
 | Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
