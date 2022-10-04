@@ -21,7 +21,7 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nicosch14.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/nicosch14)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nicosch14.svg?style=social&label=%20%40nicosch14)](https://twitter.com/nicosch14)
 
 
 
