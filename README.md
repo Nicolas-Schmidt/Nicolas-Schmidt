@@ -2,7 +2,8 @@
 
 I am Assistant Professor in Political Science and Quantitative Methods at Political Science Department (DPC) and at Methods and Data Access Unit (UMAD) - Universidad de la Republica.
 
-I develop my academic activity mainly in R language. I have developed in co-authorship with several colleagues the following packages:
+I develop my academic activity mainly in R language. 
+I have developed in co-authorship with several colleagues the following packages:
 
 
 | Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
@@ -16,6 +17,9 @@ I develop my academic activity mainly in R language. I have developed in co-auth
 | [`opuy`](https://nicolas-schmidt.github.io/opuy/)                | Datos de opinón pública de Uruguay de 1989 hasta la actualidad.                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.001-orange.svg)]()                                                 |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 | [`puy`](https://nicolas-schmidt.github.io/puy/)                  | Politicos Uruguayos.                                                                              |      |[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 | [`IntRo`](https://nicolas-schmidt.github.io/IntRo//index.html)   | Introducción al software estadístico R.                                                           |      |[![](https://img.shields.io/badge/devel%20version-1.5.2-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+
+
+
 
 
 
