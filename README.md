@@ -8,7 +8,7 @@ I have developed in co-authorship with several colleagues the following packages
 
 **Methods:**
 
-| Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
+| Package Name                                                         | Description                                                                                       | CRAN |GitHub|Status|
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
 | [**`BayesSPsurv`**](https://nicolas-schmidt.github.io/BayesSPsurv/)  | Fits Bayesian spatial split-population (SP) survival models for clustered event processes.        |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesSPsurv)](https://cran.r-project.org/package=BayesSPsurv)      |[![](https://img.shields.io/badge/devel%20version-0.1.4-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 | [**`BayesMFSurv`**](https://github.com/Nicolas-Schmidt/BayesMFSurv)  | Fits Bayesian split-population (SP) survival models with and wihout misclassified failured events.|[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesMFSurv)      |[![](https://img.shields.io/badge/devel%20version-0.2.0-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
@@ -16,7 +16,7 @@ I have developed in co-authorship with several colleagues the following packages
 
 **Data Management and Data Structure:**
 
-| Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
+| Package Name                                                          | Description                                                                                       | CRAN |GitHub|Status|
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
 | [**`speech`**](https://nicolas-schmidt.github.io/speech/)            | Legislative Speeches                                                                              |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/speech)](https://cran.r-project.org/package=speech)                |[![](https://img.shields.io/badge/devel%20version-0.1.5-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 | [**`speechJava`**](https://github.com/Nicolas-Schmidt/speechJava)    | Extract Legislative Speeches with Java                                                            |                                                                                                                                |[![](https://img.shields.io/badge/devel%20version-0.1.3-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/abandoned.svg)]()   |                                     
@@ -26,7 +26,7 @@ I have developed in co-authorship with several colleagues the following packages
 
 **Databases and workflows:**
 
-| Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
+| Package Name                                                          | Description                                                                                       | CRAN |GitHub|Status|
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
 | [**`Boreluy`**](https://nicolas-schmidt.github.io/Boreluy/)          | Electoral data of Uruguay 1918 - 2020.                                                         |      |[![](https://img.shields.io/badge/devel%20version-0.1.7-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 | [**`opuy`**](https://nicolas-schmidt.github.io/opuy/)                | Public opinion data for Uruguay from 1989 to the present.                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.001-orange.svg)]()                                                 |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
@@ -36,7 +36,7 @@ I have developed in co-authorship with several colleagues the following packages
 
 **Teaching:**
 
-| Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
+| Package Name                                                          | Description                                                                                       | CRAN |GitHub|Status|
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
 | [**`IntRo`**](https://nicolas-schmidt.github.io/IntRo//index.html)   | Introduction to R statistical software.                                                         |      |[![](https://img.shields.io/badge/devel%20version-1.5.2-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 
