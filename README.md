@@ -42,32 +42,23 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 
-
-<table>
-  <colgroup>
-    <col style="width: 10%">
-    <col style="width: 20%">
-    <col style="width: 30%">
-    <col style="width: 20%">
-    <col style="width: 20%">
-  </colgroup>
+<table style="width: 100%">
   <tr>
-    <th>Celda 1</th>
-    <th>Celda 2</th>
-    <th>Celda 3</th>
-    <th>Celda 4</th>
-    <th>Celda 5</th>
+    <th>Columna 1</th>
+    <th>Columna 2</th>
+    <th>Columna 3</th>
   </tr>
   <tr>
-    <td>Ancho 1</td>
-    <td>Ancho 2</td>
-    <td>Ancho 3</td>
-    <td>Ancho 4</td>
-    <td>Ancho 5</td>
+    <td>Celda 1</td>
+    <td>Celda 2</td>
+    <td>Celda 3</td>
+  </tr>
+  <tr>
+    <td>Celda 4</td>
+    <td>Celda 5</td>
+    <td>Celda 6</td>
   </tr>
 </table>
-
-
 
 
 
