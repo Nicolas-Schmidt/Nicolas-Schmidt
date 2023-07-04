@@ -41,11 +41,6 @@ I have developed in co-authorship with several colleagues the following packages
 | [**`IntRo`**](https://nicolas-schmidt.github.io/IntRo//index.html)   | Introduction to R statistical software.                                                         |      |[![](https://img.shields.io/badge/devel%20version-1.5.2-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 
 
-
-| Columna 1 | Columna 2 |
-|:---------:|:---------:|
-|  <span style="background-color: yellow">Celda 1</span>   | <span style="background-color: cyan">Celda 2</span>   |
-
 <br>
 
 
