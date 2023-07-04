@@ -21,7 +21,8 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 <br>
-**Issue**
+
+~Issue~
 
 **M**: *Methods*    
 **DMS**:*Data Management and Data Structure*    
