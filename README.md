@@ -42,6 +42,36 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 
+
+<table>
+  <colgroup>
+    <col style="width: 10%">
+    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 20%">
+    <col style="width: 20%">
+  </colgroup>
+  <tr>
+    <th>Celda 1</th>
+    <th>Celda 2</th>
+    <th>Celda 3</th>
+    <th>Celda 4</th>
+    <th>Celda 5</th>
+  </tr>
+  <tr>
+    <td>Ancho 1</td>
+    <td>Ancho 2</td>
+    <td>Ancho 3</td>
+    <td>Ancho 4</td>
+    <td>Ancho 5</td>
+  </tr>
+</table>
+
+
+
+
+
+
 <br>
 
 
