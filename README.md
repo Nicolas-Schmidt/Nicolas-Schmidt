@@ -14,24 +14,10 @@ I have developed in co-authorship with several colleagues the following packages
 |Data Management and Data Structure| [**`speech`**](https://nicolas-schmidt.github.io/speech/)            | Legislative Speeches                                                                              |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/speech)](https://cran.r-project.org/package=speech)                |[![](https://img.shields.io/badge/devel%20version-0.1.5-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 |Data Management and Data Structure| [**`speechJava`**](https://github.com/Nicolas-Schmidt/speechJava)         | Extract Legislative Speeches with Java                                                            |                                                                                                                                |[![](https://img.shields.io/badge/devel%20version-0.1.3-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/abandoned.svg)]()   |                                     
 |Data Management and Data Structure| [**`esaps`**](https://nicolas-schmidt.github.io/esaps/index.html)    | Indicators of Electoral Systems and Party Systems                                                 |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/esaps)](https://cran.r-project.org/package=esaps)                 |[![](https://img.shields.io/badge/devel%20version-0.2.2-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
-
-
-
-**Databases and workflows:**
-
-| Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
-| -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
-| [**`Boreluy`**](https://nicolas-schmidt.github.io/Boreluy/)          | Electoral data of Uruguay 1918 - 2020.                                                         |      |[![](https://img.shields.io/badge/devel%20version-0.1.7-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
-| [**`opuy`**](https://nicolas-schmidt.github.io/opuy/)                | Public opinion data for Uruguay from 1989 to the present.                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.001-orange.svg)]()                                                 |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
-| [**`puy`**](https://nicolas-schmidt.github.io/puy/)                  | Uruguayan Politicians 1830 - 2020                                                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
-
-
-
-**Teaching:**
-
-| Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
-| -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
-| [**`IntRo`**](https://nicolas-schmidt.github.io/IntRo//index.html)   | Introduction to R statistical software.                                                         |      |[![](https://img.shields.io/badge/devel%20version-1.5.2-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+|Databases and workflows| [**`Boreluy`**](https://nicolas-schmidt.github.io/Boreluy/)          | Electoral data of Uruguay 1918 - 2020.                                                         |      |[![](https://img.shields.io/badge/devel%20version-0.1.7-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+|Databases and workflows| [**`opuy`**](https://nicolas-schmidt.github.io/opuy/)                | Public opinion data for Uruguay from 1989 to the present.                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.001-orange.svg)]()                                                 |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+|Databases and workflows| [**`puy`**](https://nicolas-schmidt.github.io/puy/)                  | Uruguayan Politicians 1830 - 2020                                                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+|Teaching| [**`IntRo`**](https://nicolas-schmidt.github.io/IntRo//index.html)   | Introduction to R statistical software.                                                         |      |[![](https://img.shields.io/badge/devel%20version-1.5.2-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 
 
 <br>
