@@ -42,6 +42,10 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 
+| Celda 1                        | Celda 2                        | Celda 3                        | Celda 4                        | Celda 5                        |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| <td style="width: 10%">Ancho 1</td> | <td style="width: 20%">Ancho 2</td> | <td style="width: 30%">Ancho 3</td> | <td style="width: 20%">Ancho 4</td> | <td style="width: 20%">Ancho 5</td> |
+
 
 
 <br>
