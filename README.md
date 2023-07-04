@@ -42,7 +42,9 @@ I have developed in co-authorship with several colleagues the following packages
 
 
 
-
+| Columna 1 | Columna 2 |
+|:---------:|:---------:|
+|  <span style="background-color: yellow">Celda 1</span>   | <span style="background-color: cyan">Celda 2</span>   |
 
 <br>
 
