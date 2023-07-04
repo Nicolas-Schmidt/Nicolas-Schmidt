@@ -6,12 +6,11 @@ I develop my academic activity mainly in R language.
 I have developed in co-authorship with several colleagues the following packages:   
 <br>
 
-**Methods:**
 
-| Package                                                         | Description                                                                                       | CRAN |GitHub|Status|
-| -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
-| [**`BayesSPsurv`**](https://nicolas-schmidt.github.io/BayesSPsurv/)  | Fits Bayesian spatial split-population (SP) survival models for clustered event processes.        |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesSPsurv)](https://cran.r-project.org/package=BayesSPsurv)      |[![](https://img.shields.io/badge/devel%20version-0.1.4-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
-| [**`BayesMFSurv`**](https://github.com/Nicolas-Schmidt/BayesMFSurv)  | Fits Bayesian split-population (SP) survival models with and wihout misclassified failured events.|[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesMFSurv)      |[![](https://img.shields.io/badge/devel%20version-0.2.0-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+|Issue| Package                                                         | Description                                                                                       | CRAN |GitHub|Status|
+|----| -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
+|Methods| [**`BayesSPsurv`**](https://nicolas-schmidt.github.io/BayesSPsurv/)  | Fits Bayesian spatial split-population (SP) survival models for clustered event processes.        |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesSPsurv)](https://cran.r-project.org/package=BayesSPsurv)      |[![](https://img.shields.io/badge/devel%20version-0.1.4-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+|Methods| [**`BayesMFSurv`**](https://github.com/Nicolas-Schmidt/BayesMFSurv)  | Fits Bayesian split-population (SP) survival models with and wihout misclassified failured events.|[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesMFSurv)      |[![](https://img.shields.io/badge/devel%20version-0.2.0-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 
 
 **Data Management and Data Structure:**
