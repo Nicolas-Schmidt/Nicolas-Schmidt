@@ -10,7 +10,6 @@ I have developed in co-authorship with several colleagues the following packages
 
 | Package                                                          | Description                                                                                       | CRAN |GitHub|Status|
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
-| <td style="width: 10%">Ancho 1</td> | <td style="width: 20%">Ancho 2</td> | <td style="width: 30%">Ancho 3</td> | <td style="width: 20%">Ancho 4</td> | <td style="width: 20%">Ancho 5</td> |
 | [**`BayesSPsurv`**](https://nicolas-schmidt.github.io/BayesSPsurv/)  | Fits Bayesian spatial split-population (SP) survival models for clustered event processes.        |[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesSPsurv)](https://cran.r-project.org/package=BayesSPsurv)      |[![](https://img.shields.io/badge/devel%20version-0.1.4-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 | [**`BayesMFSurv`**](https://github.com/Nicolas-Schmidt/BayesMFSurv)  | Fits Bayesian split-population (SP) survival models with and wihout misclassified failured events.|[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesMFSurv)      |[![](https://img.shields.io/badge/devel%20version-0.2.0-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 
