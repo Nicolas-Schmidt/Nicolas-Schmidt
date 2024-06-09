@@ -18,6 +18,12 @@ I have developed in co-authorship with several colleagues the following packages
 |DW| [**`opuy`**](https://nicolas-schmidt.github.io/opuy/)                | Uruguayan Public Opinion Data From 1989 to the Present.                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.001-orange.svg)]()                                                 |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 |DW| [**`puy`**](https://nicolas-schmidt.github.io/puy/)                  | Uruguayan Politicians 1830 - 2020                                                                   |      |[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 |DW| [**`partiesAL`**](https://nicolas-schmidt.github.io/partiesAL/)  | Legislative Parties of the Americas 1925 - 2019.        |   |[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)]()      |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
+
+
+
+|Issue| Repo                                                         | Description                                                                                       | CRAN |GitHub|Status|
+|----| -----------------------------------------------------------------| ------------------------------------------------------------------------------------------        |------|------|------|
+
 |T| [**`IntRo`**](https://nicolas-schmidt.github.io/IntRo//index.html)   | Introduction to R statistical software.                                                         |      |[![](https://img.shields.io/badge/devel%20version-1.5.2-orange.svg)]()                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 |T| [**`mediaR`**](https://github.com/Nicolas-Schmidt/mediaR)   | Programming in R for Data Analysis.                                                         |      |                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
 |T| [**`DICS`**](https://nicolas-schmidt.github.io/Curso_Experimentos/)   | Design and Implementation of Experiments in Social Sciences.                                                         |      |                                                   |[![](https://www.repostatus.org/badges/latest/active.svg)]()      |
