@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Assistant Professor in Political Science and Quantitative Methods at Political Science Department ([DCP](https://cienciassociales.edu.uy/departamento-de-ciencia-politica/)) and at Methods and Data Access Unit ([UMAD](https://umad.cienciassociales.edu.uy/sistema-de-consulta-personalizado/)) - Universidad de la Republica.
+I am a Professor of Political Science and Quantitative Methods at the Department of Political Science ([DCP](https://cienciassociales.edu.uy/departamento-de-ciencia-politica/)) and the Methods and Data Access Unit ([UMAD](https://umad.cienciassociales.edu.uy/sistema-de-consulta-personalizado/)) at Universidad de la República.
 
-I develop my academic activity mainly in R language.   
-I have developed in co-authorship with several colleagues the following packages:   
+My academic work is primarily developed using the R programming language.
+In collaboration with various colleagues, I have co-authored several R packages, including: 
 <br>
 
 
